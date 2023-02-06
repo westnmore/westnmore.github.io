@@ -12,6 +12,13 @@ this blog will serve as a documentation in my interest in disassembling video ga
 i aim to serve out update daily
 i'll be starting from scratch, i have no prior programming experience at all.
 
+roadmap:
+
+-become proficient in cheat engine x
+-beginners level c/c++ knowledge x
+-proficiency in c/c++ for basic trainers x
+-experienced enough to tackle aimbot/esp x
+
 ### contact or inquiries
 
 [joshua@westnmore.com](mailto:email@domain.com)
