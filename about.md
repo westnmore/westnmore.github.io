@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 published: true
 ---
-
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+hey there folks,
+i'm joshua, a 21 y/o from ldn currently working as a first line tech
+join me in my journey of pwning gamez :D
 
 ### Contact me
 
